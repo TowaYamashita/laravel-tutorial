@@ -1,1 +1,11 @@
 # laravel-tutorial
+- [ ] https://laravel.com/docs/9.x/installation
+- [ ] https://laravel.com/docs/9.x/configuration
+- [ ] https://laravel.com/docs/9.x/structure
+- [ ] https://laravel.com/docs/9.x/frontend
+- [ ] https://laravel.com/docs/9.x/lifecycle
+- [ ] https://laravel.com/docs/9.x/container
+- [ ] https://laravel.com/docs/9.x/facades
+- [ ] https://laravel.com/docs/9.x/routing
+- [ ] https://laravel.com/docs/9.x/eloquent
+- [ ] https://laravel.com/docs/9.x/sanctum

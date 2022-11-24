@@ -1,5 +1,5 @@
 # laravel-tutorial
-- [ ] https://laravel.com/docs/9.x/installation
+- [x] https://laravel.com/docs/9.x/installation
 - [ ] https://laravel.com/docs/9.x/configuration
 - [ ] https://laravel.com/docs/9.x/structure
 - [ ] https://laravel.com/docs/9.x/frontend

@@ -12,7 +12,7 @@ https://laravel.com/docs/9.x/frontend
   - Smartyみたいなやつ
 - recoures/views に配置したBladeファイルを使用してHTMLをレンダリングすることができる
 - この方法でアプリケーションを構築する場合、通常、フォーム送信やその他のページ インタラクションは、サーバーからまったく新しい HTML ドキュメントを受け取り、ページ全体がブラウザーによって再レンダリングされる
-  - MPA(Multi Page Action)とも呼ばれている
+  - MPA(Multi Page Application)とも呼ばれている
 
 ### Laravel Livewire
 

@@ -3,7 +3,7 @@
 - [x] https://laravel.com/docs/9.x/configuration
 - [x] https://laravel.com/docs/9.x/structure
 - [x] https://laravel.com/docs/9.x/frontend
-- [ ] https://laravel.com/docs/9.x/lifecycle
+- [x] https://laravel.com/docs/9.x/lifecycle
 - [ ] https://laravel.com/docs/9.x/container
 - [ ] https://laravel.com/docs/9.x/facades
 - [ ] https://laravel.com/docs/9.x/routing

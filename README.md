@@ -5,7 +5,7 @@
 - [x] https://laravel.com/docs/9.x/frontend
 - [x] https://laravel.com/docs/9.x/lifecycle
 - [x] https://laravel.com/docs/9.x/container
-- [ ] https://laravel.com/docs/9.x/facades
+- [x] https://laravel.com/docs/9.x/facades
 - [ ] https://laravel.com/docs/9.x/routing
 - [ ] https://laravel.com/docs/9.x/eloquent
 - [ ] https://laravel.com/docs/9.x/sanctum

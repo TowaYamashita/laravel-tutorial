@@ -7,5 +7,5 @@
 - [x] https://laravel.com/docs/9.x/container
 - [x] https://laravel.com/docs/9.x/facades
 - [x] https://laravel.com/docs/9.x/routing
-- [ ] https://laravel.com/docs/9.x/eloquent
+- [x] https://laravel.com/docs/9.x/eloquent
 - [ ] https://laravel.com/docs/9.x/sanctum

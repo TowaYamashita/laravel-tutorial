@@ -8,4 +8,4 @@
 - [x] https://laravel.com/docs/9.x/facades
 - [x] https://laravel.com/docs/9.x/routing
 - [x] https://laravel.com/docs/9.x/eloquent
-- [ ] https://laravel.com/docs/9.x/sanctum
+- [x] https://laravel.com/docs/9.x/sanctum
